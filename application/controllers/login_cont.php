@@ -27,7 +27,7 @@ public function index()
 			{
 				$ret=$this->login_mod->update_flag($username);
 			}
-			else
+			
 
 			//redirect(base_url().'index.php/studentsearch/asdfg/'.$usid);	
 		}
